@@ -22,14 +22,14 @@
       },
       {
         "network": "linkedin",
-        "username": "dannytan",
+        "username": "dannymtan",
         "url": "http://linkedin.com/in/dannymtan"
       }
     ]
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "software engineering,
       "keywords": [
       ]
     },
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "iOS application development,
+      "name": "iOS application development",
       "keywords": [
       ]
     }
