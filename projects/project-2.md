@@ -14,10 +14,8 @@ summary: An EP Album written and produced by Impact Fellowship.
   <img class="ui image" src="../images/boundless.jpg">
 </div>
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Boundless is a Christian Rock EP Album written and arranged by the Impact Fellowship worship band. All three songs were recorded in a live setting and produced by Zeo Music Studio. I was responsible for arranging and performing the drum part to each song, and also helped in the lyric writing process. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+These songs were created and released to share how music can be a tool to restore, heal, and connect people to God in their own way. The heart behind every word and melody is a testament to the faithfulness and goodness of the Lord, and is intended for both believers and non-believers.
  
 Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
