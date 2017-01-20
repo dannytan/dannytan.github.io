@@ -13,11 +13,10 @@ summary: A re-creation of the classic computer game, Minesweeper, using Java and
 ---
 <img class="ui medium right floated rounded image" src="../images/minesweeper_1.png">
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This program was developed for my ICS 211 class as the final project for the course. I worked individually to design, implement, and test the game. Various data structures learned in the class was used to produce this game. EZ Graphics was used to design the layout for this version of Minesweeper.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The game includes three levels of difficulty: easy, medium, and hard.  When the easy mode is selected, the user is presented with a 10x10 grid. The medium mode is played with a 15x15 grid, and the hard mode is played with a 20x20 grid. There is a "start over" option which allows the player to restart if necessary. If the player wins, their time is recorded and displayed.  There is also a highscore list for each difficulty.  After each game, the player is asked if he/she wants to play again.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
 
 
