@@ -20,8 +20,6 @@ In my ICS 314 class, Professor Philip Johnson introduced a new way to learn and 
 
 Philip Johnson, who coined this idea of "athletic software engineering," stresses that this method of teaching transforms students into fluent, multi-tasking, and efficient programmers who would be better prepared for hackathon and weekend startup environments. These skills are impossible to learn overnight.  It takes time. It takes practice. It takes training to be an athletic software engineer, and I am excited to be a part of the process.
 
-To learn more about athletic software engineering, read Philip Johnson's essay about it 
+To learn more about athletic software engineering, read Philip Johnson's essay about it <a href="http://philipmjohnson.org/essays/athletic-software-engineering.html">here.</a>
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
