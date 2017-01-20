@@ -6,7 +6,7 @@
     "email": "dtan808@hawaii.edu",
     "phone": "808-265-2452",
     "website": "https://dannytan.github.io",
-    "summary": "I am an undergraduate student of Computer Science at the University of Hawaii at Manoa",
+    "summary": "I am an undergraduate student pursuing a B.S. in Computer Science at the University of Hawaii at Manoa",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "software engineering",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "web development",
+      "name": "Web/App Development",
       "keywords": [
       ]
     },
     {
-      "name": "iOS application development",
+      "name": "Internet of Things",
       "keywords": [
       ]
     }
