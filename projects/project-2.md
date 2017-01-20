@@ -10,7 +10,7 @@ labels:
 summary: An EP Album written and produced by Impact Fellowship.
 ---
 
-<img class="ui medium center floated rounded image" src="../images/boundless.jpg">
+<img class="ui medium middle floated rounded image" src="../images/boundless.jpg">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
