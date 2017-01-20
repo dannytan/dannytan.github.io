@@ -9,10 +9,13 @@ labels:
   - Javascript
   - Athletic Software Engineering
 ---
+## Following the Trend
 
 <img class="ui tiny left circular floated image" src="../images/javascript.png">
 
 I've been trying to get myself to learn Javascript for a while now, especially because I take great interest in becoming a proficient web developer, so having it as a topic for my ICS 314 class at the University of Hawaii is enjoyable so far. I've learned and developed projects in both Java and C++, so learning the Javascript syntax and basics was pretty easy, since it's very similar. However, there are ways that Javascript differs from Java and C++, and has proven to be more powerful in certain areas. Javascript is a flexible programming language and has become the standard for web developers everywhere. It's trend of use and popularity in the professional world of programming shows no signs of slowing down. For this reason, I believe learning this language and putting it into practical use is essential to becoming a well-rounded software engineer. From a software engineering perspective, Javascript is a great langauge to know and master.
+
+## The Road Less Travelled
 
 <img class="ui tiny left circular floated image" src="../images/code.jpg">
 
