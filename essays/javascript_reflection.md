@@ -16,7 +16,11 @@ I've been trying to get myself to learn Javascript for a while now, especially b
 
 <img class="ui tiny left circular floated image" src="../images/design-technology.jpg">
 
-In my ICS 314 class, Professor Philip Johnson introduced a new way to learn and practice software development - Athletic Software Engineering. This method of learning involves what are known as WODs, or Workouts of the Day. These exercises consist of coding problems that are timed to push the class to program efficiently and accurately while under pressure. 
+In my ICS 314 class, Professor Philip Johnson introduced a new way to learn and practice software development - Athletic Software Engineering. This method of learning involves what are known as WODs, or Workouts of the Day. These exercises consist of coding problems that are timed to push the class to program efficiently and accurately while under pressure. So far, we have only done one official WOD in class, but have been given a few practive WODs to do at home, too. Over the course of the semester, as we do more and more of these WODs, I believe I will become not only a better programmer, but also a faster one. 
+
+Philip Johnson, who coined this idea of "athletic software engineering," stresses that this method of teaching transforms students into fluent, multi-tasking, and efficient programmers who would be better prepared for hackathon and weekend startup environments. These skills are impossible to learn overnight.  It takes time. It takes practice. It takes training to be an athletic software engineer, and I am excited to be a part of the process.
+
+To learn more about athletic software engineering, read Philip Johnson's essay about it 
 
 <img class="ui tiny left circular floated image" src="../images/software-code.jpg">
 
