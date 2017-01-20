@@ -34,7 +34,12 @@
       ]
     },
     {
-      "name": "Web/App Development",
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "iOS Application Development",
       "keywords": [
       ]
     },
