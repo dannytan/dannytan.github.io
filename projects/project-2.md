@@ -10,9 +10,7 @@ labels:
 summary: An EP Album written and produced by Impact Fellowship.
 ---
 
-<div class="ui medium rounded image">
-  <img class="ui image" src="../images/boundless.jpg">
-</div>
+<img class="ui medium left floated rounded image" src="../images/boundless.jpg">
 
 Boundless is a Christian Rock EP Album written and arranged by the Impact Fellowship worship band. All three songs were recorded in a live setting and produced by Zeo Music Studio. I was responsible for arranging and performing the drum part to each song, and also helped in the lyric writing process. 
 
