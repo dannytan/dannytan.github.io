@@ -11,7 +11,7 @@ labels:
   - EZ Graphics
 summary: A re-creation of the classic computer game, Minesweeper, using Java and EZ Graphics.
 ---
-
+<img class="ui medium right floated rounded image" src="../images/minesweeper_1.png">
 <div class="ui small rounded images">
   <img class="ui image" src="../images/minesweeper_1.png">
   <img class="ui image" src="../images/minesweeper_2.png">
