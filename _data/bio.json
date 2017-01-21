@@ -81,17 +81,28 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Winter, 2018)",
       "studyType": "B.S.",
-      "startDate": "2014-09-22",
-      "endDate": "2018",
-      "gpa": "",
+      "startDate": "2015-08-24",
+      "endDate": "",
+      "gpa": "3.7",
       "courses": [
         "Introduction to Computer Science I",
         "Introduction to Computer Science II",
         "Discrete Mathematics for Computer Science I",
         "Discrete Mathematics for Computer Science II",
-        "Object-Oriented Programming",
-        "Data Structures",
         "Algorithms"
+      ]
+    },
+    {
+      "institution": "Santa Clara University, Santa Clara, CA",
+      "area": "Computer Science",
+      "studyType": "",
+      "startDate": "2014-09-22",
+      "endDate": "2015-06-05",
+      "gpa": "3.7",
+      "courses": [
+        "Introduction to Computer Science (C++)",
+        "Object-Oriented Programming",
+        "Data Structures"
       ]
     }
   ],
