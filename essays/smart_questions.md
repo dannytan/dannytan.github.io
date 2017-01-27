@@ -18,7 +18,7 @@ The field of computer science is a dynamic field that is constantly changing and
 
 # What Does Raymond Say?
 
-In the essay "How To Ask Questions The Smart Way," by Eric Raymond, useful tips are given to effectely interact with fellow developers on sites such as StackOverflow. Raymond lays out a guide on how to ask good questions that will not only benefit the person asking the question, but also others who may happen to have a similar problem or stumble across the forum. After reading the many rules to asking questions, I've broken it down to three general rules to follow.
+In the essay "<a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a>," by Eric Raymond, useful tips are given to effectely interact with fellow developers on sites such as StackOverflow. Raymond lays out a guide on how to ask good questions that will not only benefit the person asking the question, but also others who may happen to have a similar problem or stumble across the forum. After reading the many rules to asking questions, I've broken it down to three general rules to follow.
 
 ## Do Your Part
 
