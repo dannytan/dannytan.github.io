@@ -30,9 +30,21 @@ When it has come time to post your question, asking the right way will increase 
 
 ### The Smart Way
 
+<a href="http://stackoverflow.com/questions/41881418/synchronized-across-instances-of-object">A Good Question</a>
+
+Here we see an example of a well thought out question. The person asking immediately explains the goal of their problem. Then, they explain the specific issues occuring, rather than saying, "It doesn't work, please help me fix it." Lastly, the person aking the question posts their code of the specific class having issues, rather than the entire program. Hackers don't have the time nor want to spend the effort to sift through an entire program to fix the problem.
+
+By asking the question in this way, three people were able to respond and give quality input on the same day the question was posted. The layout of the question allows for others to immediately help and respond with a possible solution to the problem.
+
 ### The Not So Smart Way
+
+<a href="http://stackoverflow.com/questions/41883036/still-getting-fatal-exception-after-many-code-i-have-tested">A Very Bad Question</a>
+
+You don't have to be a programmer to reconize this as an extremely horrible way to present a question. First of all, the subject header is vague and uninteresting. It reads, "Still getting fatal exception after my code I have tested." It doesn't specify the problem. Then, this person goes on to post blurry, dim, and disoriented pictures of their code, rather than posting it directly to the forum. This is simply offputting and will deter anyone from even attempting to make out the code. Lastly, the person asking ends by begging. The last line reads, "Please Dev, What should I do?? I need to get it done quick!" This makes this person sound desperate, demanding, and downright rude.
+
+It doesn't end there. Someone took the time to actually reply, saying, "Please post your code, not a blurry dark unreadable sideways photo of it." To that, the person asking relied that he/she "gat no money for a subscription!" Thinking that they need a subscription to StackOverflow shows this person didn't do their research. These types of posts take away from the open source community. The goal is to contribute to it.
 
 ## Be Nice
 
-The last, but certainly not least, rule to asking questions on open source forums is to be kind, courteous, polite, and respectful. People answer questions on their spare time, so no one is entitled to an answer. If you respect the online community by asking thoughtful questions in a respectful manner, others will want to help. If you do get your question answered, it is good practice to follow up so that others who may have a similar problem can find a solution for themselves in the future.
+The last, but certainly not least, rule to asking questions on open source forums is to be kind, courteous, polite, and respectful. People answer questions on their spare time, so no one is entitled to an answer. If you respect the online community by asking thoughtful questions in a respectful manner, others will want to help. If you do get your question answered, it is good practice to follow up so that others who may have a similar problem can find a solution for themselves in the future. Be nice to other fellow hackers, and they'll be nice to you.
 
