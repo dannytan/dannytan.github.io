@@ -32,7 +32,7 @@ When it has come time to post your question, asking the right way will increase 
 
 <a href="http://stackoverflow.com/questions/41881418/synchronized-across-instances-of-object">A Good Question</a>
 
-Here we see an example of a well thought out question. The person asking immediately explains the goal of their problem. Then, they explain the specific issues occuring, rather than saying, "It doesn't work, please help me fix it." Lastly, the person aking the question posts their code of the specific class having issues, rather than the entire program. Hackers don't have the time nor want to spend the effort to sift through an entire program to fix the problem.
+Here we see an example of a well thought out question. The person asking immediately explains the goal of their problem. Then, they explain the specific issues occuring, rather than saying, "It doesn't work, please help me fix it." Lastly, the person asking the question posts their code of the specific class having issues, rather than the entire program. Hackers don't have the time nor want to spend the effort to sift through an entire program to fix the problem.
 
 By asking the question in this way, three people were able to respond and give quality input on the same day the question was posted. The layout of the question allows for others to immediately help and respond with a possible solution to the problem.
 
