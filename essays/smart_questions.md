@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img class="ui image" src="../images/passion.jpg">
+<img class="ui image" src="../images/stackoverflow_logo.jpg">
 
 # If You Don't Know, Ask
 
