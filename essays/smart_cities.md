@@ -39,22 +39,22 @@ Although this architecture for implementing Big Data analytics seems valid, this
 
 ## Push for Smart Systems
 
-# Homes
+### Homes
 With close to thirty brand new condominium towers being built in Kaka’ako in the future, the perfect opportunity to install smart homes is available.  These luxury, moderate, and affordable units will have the capability to be remotely connected to.  Electronic appliances, cameras, and smoke or fire detectors will be able to be controlled and monitored by sending data generated from various sensors around the unit.  This detection will occur in real time.  For instance, if a fire is detected, an alert will be sent to both the homeowner and the nearest fire department.  Rathore (2016) also states in his journal article that, “Similar to detecting a fire in real time, electricity and gas companies effectively manage the power, gas, and water consumption to houses and different areas of the city” (p. 73).  This system will ultimately give homeowners or tenants more control and a greater sense of security for their homes.
 
-# Parking
+### Parking
 Parking has become a growing issue in Honolulu, as space is very limited.  Whenever a new building is built, parking must be accounted for.  With smart parking, sensors with help to track vehicles going in and out of stalls or parking zones in real-time.  “Citizens can easily obtain information on the nearest free slot of parking or more suitable places to park their vehicles” (Rathore, 2016, p. 73).  This would save a lot of time and hassle for drivers who typically struggle to find an open parking space.  Drivers would be able to use their smart phone or mobile device to locate where there are open spaces before arriving at their destination.  Some of the newer parking structures in Honolulu are already starting to move in this direction.  For example, the new parking structure in the Ala Moana Shopping Center has parking space counters, which indicate how many open stalls are available on each level of the structure.  Data and information collected from these sensors can also be analyzed and stored for later use in planning for future parking lots or structures.  Kaka’ako planners will have an easier time deciding how much parking to actually provide in the area.
 
-# Weather
+### Weather
 Weather and water information would also be useful for increasing the efficiency of the Kaka’ako district.  Sensors would be placed in water reservoirs or other open spaces to gather weather-related data (Rathore, 2016, p. 74).  Data relating to temperature, rain, humidity, pressure, wind speed, and water levels are all very useful for both citizens and authorities.
 
-# Traffic
+### Traffic
 Much like parking, traffic is another major issue currently in Honolulu.  At peak traffic hours, cars can be stuck on the roads for very long periods of time.  This is why traffic information would be the most useful and important source of data within Kaka’ako.  Patterns would be formed and road blockages or accidents can be detected in real-time.  “Citizens can determine how long it will take to reach a destination based on the current intensity of traffic and the average speed of vehicles” (Rathore, 2016, p. 75).  Maps on smart phones or other mobile devices would have the ability to visually show the driver where there are traffic jams or recent accidents.  Ultimately, time will be saved for the driver.  This type of system will also reduce fuel consumption and decrease air pollution.  Since the sensors would be able to track accidents, government authorities would be quicker to respond and take action to manage the traffic.  Stoplights would also be adjusted based off the current level of traffic intensity, thereby improving the flow of traffic in certain areas during certain peak hours of the day.
 
-# Pollution
+### Pollution
 Pollution is often an issue that is overlooked, especially in Honolulu.  However, certain gases can be dangerous when they reach certain levels.  Sensors around the streets in Kaka’ako would be able to collect data on these environmental gases, such as particular metals, carbon monoxide sulfur dioxide, ozone, and also noise (Rathore, 2016, p.76).  According to Rathore (2016), “These gases are very dangerous to human health and can cause liver disorders, coughing, and heart disease.  People should not go outside when these gases are at high levels in the environment, especially children, the elderly, those who are engaging in physical exercise, or the sick” (p. 76).  Citizens would be warned when it is dangerous to be outside when the sensors detect a certain amount of a gas that passes a particular threshold.  This type of technology will increase the level of safety within Kaka’ako and allow people to feel safer when coming into the area.
 
-# Surveillance
+### Surveillance
 Another way for citizens to feel safer is to increase the surveillance security in Kaka’ako.  This could be done through continuous video monitoring of the entire neighborhood.  However, it would be challenging and unrealistic to constantly monitor and analyze every camera throughout the district to detect crimes. To over come this, Rathore (2016) proposes a system to target specific locations.  “We propose new scenarios that increase the entire city's security system. We placed various emergency buttons, including microphones, in various places with surveillance cameras. When any crime occurs, such as a robbery, a car or purse being stolen, a fight, or illegal activity, a witness can push the emergency button, and it will send a message to the nearest police station. Thus, police or security agencies can start monitoring nearby locations through surveillance cameras and can easily locate the perpetrator” (p. 78).  Of course, this system would be an alternative to calling 911, but it could also prove to be faster and much easier.
 
 ## Getting the People Involved
@@ -70,7 +70,7 @@ The Internet also provides greater opportunity for young people to assist in urb
 There are many ways for new technology and the expanding Internet to help with urban planning and development.  Informatics, data mining, Big Data, information and communication technology, community informatics, and Internet participatory tools all have the ability to play a big role in creating smart cities that are efficient, functional, sustainable, and community-oriented.  This use of new technology and the Internet in Kaka’ako is just a building block to making a smarter and more efficient Honolulu.  With this opportunity to innovate, Honolulu could have a lasting impact and influence for many other cities in the world of urban planning.
 
 
-## Bibliography
+### Bibliography
 
 Creamer, B. (2012, September). Kakaako’s Building Boom. Retrieved October 25, 2016,
 	from http://www.hawaiibusiness.com/kakaakos-building-boom/
