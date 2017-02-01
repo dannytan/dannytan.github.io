@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Transforming Honolulu Into a Smart City
-date: 2017-01-31
+date: 2017-02-01
 labels:
   - Smart Cities
   - Internet of Things
