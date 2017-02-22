@@ -61,7 +61,10 @@
       "keywords": [
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Semantic UI"
       ]
     },
     {
@@ -72,7 +75,8 @@
         "Git/GitHub",
         "Eclipse",
         "QT Creator",
-        "Xcode"
+        "Xcode",
+        "IntelliJ IDEA"
       ]
     }
   ],
