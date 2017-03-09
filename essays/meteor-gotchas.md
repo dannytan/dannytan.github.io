@@ -12,6 +12,8 @@ labels:
 
 It's been about two weeks of learning Meteor, the open-source JavaScript web framework.  Over these two weeks, I have just scratched the surface of Meteor and have already encountered my fair share of problems and roadblocks. Like learning any new language, framework, or technology, practice and constant repetition makes perfect. One problem I encountered often starting out was the need for multiple import statements in the various JavaScript files of my projects. Each directory containing one or more JS files must have an index.js file which holds all the import statements for each JS file in that directory. Then, each directory must be imported by the main.js file in the client directory, server directory, or both. On top of that, there are other import statements needed in the lower level JS files to allow for use of certain variables and template helpers. At times, I would run my web app locally on a browser to test my code, however, sometimes the data that I expected to see was not present. The problem was always a missing import statement. Encountering these problems forced me to really think about and understand how each import statement works and why they are so important when using Meteor.
 
+## Simple Syntax
+
 Another problem I recently encountered had to deal with forms and form submission. In one project, I was attempting to implement a 'Submit' button, that when the form was successfully filled, would route the app back to the home page, where the new form submission would be displayed. However, the problem I had was that the page would not respond once the submit button was pressed, even when the form was correctly filled. Here was my template class in the JavaScript file:
 
 ```
