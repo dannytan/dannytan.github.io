@@ -14,7 +14,7 @@ labels:
   - Git/Github
 summary: A way for locals to connect to local farmers at a nearby farmers market.
 ---
-<img class="ui medium image" src="../images/af-home-page.png">
+<img class="ui image" src="../images/af-home-page.png">
 
 Recently I participated in the annual AT&T Hackathon here in Honolulu, HI. I was able to meet some new people and join a make-shift team of some other students from the UH Manoa ICS department. In the beginning, we had 4 people and a couple of ideas. After the next 24 hours, we had a working web app an built great relationships within our team.
 
@@ -24,7 +24,7 @@ Aside from the home page, we created four separate pages within our app. The fir
 
 We used the Meteor framework along with JavaScript, HTML5, CSS, and Semantic UI within the IntelliJ IDEA integrated development environment in order to create our app. Below are some screenshots of what the UI looks like for the 'All Markets' page (left) and the 'Markets Nearby' page (right).
 
-<img class="ui medium left floated rounded image" src="../images/af-markets-page.png">
-<img class="ui medium right floated rounded image" src="../images/af-maps-page.png">
+<img class="ui left floated image" src="../images/af-markets-page.png">
+<img class="ui right floated image" src="../images/af-maps-page.png">
 
 Overall, participating in this hackathon was a great learning experience. Although our team did not win, I was able to use what I learned about application development this semester and challenge myself to push past the basics and utilize other resources to create something I can be proud of.
