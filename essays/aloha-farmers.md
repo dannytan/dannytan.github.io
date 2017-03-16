@@ -22,9 +22,11 @@ Our web app is called 'Aloha Farmers', a tool for locals or visitors of the isla
 
 Aside from the home page, we created four separate pages within our app. The first is an 'All Markets' page, where the user can scroll through every farmers market in the database. The 'Markets Nearby' page allows the user to enter an address, zip code, city, or general location. Once this is entered, a map will appear locating all the farmers markets within a 7 mile radius of the location entered. This was the most challenging part of out app to implement. We quickly found out how difficult it is to use the Google Maps API and geolocation, but it was all worth it once we got it to work. The last two pages, the 'Find by City' and 'Find by Day' pages, filter the farmers markets shown by either the city in which it is located or by the day on which it occurs.
 
-We used the Meteor framework along with JavaScript, HTML5, CSS, and Semantic UI within the IntelliJ IDEA integrated development environment in order to create our app. Below are some screenshots of what the UI looks like for the 'All Markets' page (left) and the 'Markets Nearby' page (right).
+We used the Meteor framework along with JavaScript, HTML5, CSS, and Semantic UI within the IntelliJ IDEA integrated development environment in order to create our app. Below are some screenshots of what the UI looks like for the 'All Markets' page and the 'Markets Nearby' page.
 
-<img class="ui left floated image" src="../images/af-markets-page.png">
-<img class="ui right floated image" src="../images/af-maps-page.png">
+
+<img class="ui image" src="../images/af-markets-page.png">
+<img class="ui image" src="../images/af-maps-page.png">
+
 
 Overall, participating in this hackathon was a great learning experience. Although our team did not win, I was able to use what I learned about application development this semester and challenge myself to push past the basics and utilize other resources to create something I can be proud of.
