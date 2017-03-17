@@ -25,7 +25,7 @@ Aside from the home page, we created four separate pages within our app. The fir
 We used the Meteor framework along with JavaScript, HTML5, CSS, and Semantic UI within the IntelliJ IDEA integrated development environment in order to create our app. Below are some screenshots of what the UI looks like for the 'All Markets' page and the 'Markets Nearby' page.
 
 <img class="ui image" src="../images/af-markets-page.png">
-<br></br>
+<br>
 <img class="ui image" src="../images/af-maps-page.png">
 
 Overall, participating in this hackathon was a great learning experience. Although our team did not win, I was able to use what I learned about application development this semester and challenge myself to push past the basics and utilize other resources to create something I can be proud of.
