@@ -7,7 +7,7 @@ permalink: projects/aloha-farmers
 date: 2017
 labels:
   - Hackathon
-  - Javscript
+  - Javascript
   - HTML/CSS
   - Semantic UI
   - Meteor
