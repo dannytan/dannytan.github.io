@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: A Glimpse of Light
 date: 2017-03-22
 labels:

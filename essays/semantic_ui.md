@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Life on the Front-end
 date: 2017-02-22
 labels:
