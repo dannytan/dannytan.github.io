@@ -6,7 +6,7 @@
     "email": "dtan808@hawaii.edu",
     "phone": "808-265-2452",
     "website": "https://dannytan.github.io",
-    "summary": "I am an undergraduate student pursuing a B.S. in Computer Science at the University of Hawaii at Manoa, expected to graduate in the Fall of 2018.",
+    "summary": "I am an undergraduate student pursuing a B.S. in Computer Science at the University of Hawaii at Manoa, expecting to graduate in the Spring of 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -40,11 +40,6 @@
     },
     {
       "name": "iOS Application Development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Internet of Things",
       "keywords": [
       ]
     },
@@ -85,7 +80,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Winter, 2018)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2015-08-24",
       "endDate": "Present",
