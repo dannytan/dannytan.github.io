@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Git and GitHub Newbie
 date: 2017-01-31
 labels:
