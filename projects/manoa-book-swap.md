@@ -11,7 +11,7 @@ labels:
   - Semantic UI
   - Meteor
   - Git/Github
-summary: An Web App allowing UH Students to buy and sell used textbooks.
+summary: A Web App allowing UH Students to buy and sell used textbooks.
 ---
 <img class="ui tiny left circular floated image" src="../images/logo-1.png">
 
