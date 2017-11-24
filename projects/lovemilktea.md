@@ -14,6 +14,7 @@ labels:
   - Git/Github
 summary: A wayfinding app for the UH Manoa campus.
 ---
+<img class="ui image" src="../images/hacc.png">
 
 What does it mean to be a student? Is it someone who is enrolled in some kind of class?  Or maybe it’s someone who is constantly making an effort to learn and grow.  As a student, I’d like to think of myself as the latter.  What I learn in the classroom is useful, but what I can learn outside of the classroom can many times be even more rewarding.
 
