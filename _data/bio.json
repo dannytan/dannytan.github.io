@@ -78,17 +78,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2018)",
       "studyType": "B.S.",
       "startDate": "2015-08-24",
       "endDate": "Present",
       "gpa": "3.7",
       "courses": [
-        "Introduction to Computer Science I",
-        "Introduction to Computer Science II",
-        "Discrete Mathematics for Computer Science I",
-        "Discrete Mathematics for Computer Science II",
-        "Algorithms"
       ]
     },
     {
@@ -99,19 +94,28 @@
       "endDate": "2015-06-05",
       "gpa": "3.7",
       "courses": [
-        "Introduction to Computer Science (C++)",
-        "Object-Oriented Programming",
-        "Data Structures"
       ]
     }
   ],
   "work": [
     {
+      "company": "eWorld Enterprise Solutions, Inc.",
+      "position": "Software Developer Intern",
+      "website": "http://www.eworldes.com/",
+      "startDate": "2017-05-15",
+      "endDate": "Present",
+      "summary": "Intern working under team of software developers",
+      "highlights": [
+        "Working with a project team responsible for interacting with the client to develop full stack enterprise solutions on real world internal and client projects ",
+        "Languages and technologies include Java, JavaScript, HTML, CSS, Angular, Vue, and SQL"
+      ]
+    },
+    {
       "company": "Volcom",
       "position": "Supervisor",
       "website": "",
       "startDate": "2014-06-01",
-      "endDate": "Present",
+      "endDate": "2017-05-01",
       "summary": "Store supervisor at Volcom Hyatt Waikiki",
       "highlights": [
         "Promoted to supervisor after two years as a sales associate",
@@ -136,6 +140,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "First Place - Hawaii Annual Code Challenge",
+      "date": "2017",
+      "awarder": "State of Hawaii",
+      "summary": "Team placed forst overall in Hawaii's largest hackathon to date."
+    },
     {
       "title": "Manoa Dean's List",
       "date": "2015-Present",
