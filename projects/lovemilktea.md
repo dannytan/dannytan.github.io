@@ -39,8 +39,8 @@ There were a few key things that I learned throughout this experience:
 
 <img class="ui image" src="../images/lmt-4.jpg">
 
-For more information about the HACC, visit (insert link).
+For more information about the HACC, click <a href="http://hacc.hawaii.gov/">here</a>.
 
-To view our demo, along with the rest of the event’s submissions, visit (insert link).
+To view our demo, along with the rest of the event’s submissions, click <a href="https://devpost.com/software/ho-okele">here</a>.
 
-As a team, we also chose to continue building our app, so hopefully one day it can be used by real students and visitors of the UH Manoa campus.  Feel free to follow our project on github (insert link).
+As a team, we also chose to continue building our app, so hopefully one day it can be used by real students and visitors of the UH Manoa campus.  Feel free to follow our project on github <a href="https://github.com/LoveMilkTea/Wayfinder">here</a>.
