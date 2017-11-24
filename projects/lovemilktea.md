@@ -4,7 +4,7 @@ type: project
 image: images/lmt-logo.png
 title: LoveMilkTea (HACC 2017)
 permalink: projects/lovemilktea
-date: 2017-09
+date: 2017
 labels:
   - Hackathon
   - HACC 2017
