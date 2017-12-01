@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Javascript - New, Similar, and Maybe Better
 date: 2017-01-19
 labels:
